@@ -1,6 +1,7 @@
 {
   "name": "AyiinXd",
   "description": "[AyiinXd] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "logo": "https://telegra.ph/file/14cbd8e94dba3a5a09325.jpg",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
